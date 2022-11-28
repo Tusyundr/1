@@ -16,12 +16,13 @@
 ["Russia", "Denmark", "Kazan"] -> []
 
 ## Содержание каталога
-- .gitignore - Сгенерированный dotnet файл 
+- .gitignore, test_work.csproj - системные файлы
 - Program.cs - Код к задаче
 - Readme.md - Описание
-- Diagram.drawio.png - блок-схема
+- Diagram.drawio (1).png - блок-схема
 
 ## Как использовать для проверки
 
-1. Перейти по ссылке 
-2. Скомпилировать C# код из файла [Program.cs]. Для проверки изменить инициализацию массива startingArray (строка 1)
+1. Перейти по ссылке https://github.com/Tusyundr/Test_work.git
+2. Скомпилировать C# код из файла [Program.cs]. Для проверки изменить инициализацию массива array (строка 1)
+
