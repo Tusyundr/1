@@ -9,7 +9,7 @@ foreach (var item in array)
     result [result.Length-1] = item;
     }
 }
-
+Console.WriteLine($"[{String.Join(", ", result)}]");
 
 
 
